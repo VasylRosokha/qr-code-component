@@ -7,8 +7,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop](./screenshots/desktop.png)
 ![Mobile](./screenshots/mobile.png)
 
-- Solution URL: [Add solution URL here](https://github.com/VasylRosokha/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/VasylRosokha/qr-code-component)
+- Live Site URL: [GitHub pages](https://your-live-site-url.com)
 
 ### Built with
 
